@@ -24,7 +24,7 @@ If the slope is between positive min_slope and max_slope values its added to the
 This pipeline was then tested on the videos in test_videos.The output can be found in test_videos output. It worked fine on both yellow and white line videoes.The pipeline did not work well on the challenge video.Below are the output images and video folder links.
 
 [Test Output Images](./test_images_output)
-[Test Output Videos](./test_video_output)
+[Test Output Videos](./test_videos_output)
 
 
 
